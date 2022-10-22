@@ -27,4 +27,4 @@ Admin Side Page -
 
 For proper zip file:- https://drive.google.com/file/d/1evdJ-cJuv9RTVacbIk7s_dvwqTXh3ZpL/view?usp=sharing
 
-For any further help contact:- singh2309prashant@gmail.com
+For any further help contact:- pranjalwagh612001@gmail.com
